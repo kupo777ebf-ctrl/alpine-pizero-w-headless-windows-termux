@@ -1,0 +1,5 @@
+Host pizw
+    HostName 192.168.1.123
+    User piuser
+    IdentityFile ~/.ssh/id_ed25519
+    IdentitiesOnly yes
