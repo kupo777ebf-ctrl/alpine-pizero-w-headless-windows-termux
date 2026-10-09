@@ -1,0 +1,6 @@
+country=FR
+network={
+    key_mgmt=WPA-PSK
+    ssid="CHANGE_ME_WIFI_SSID"
+    psk="CHANGE_ME_WIFI_PASSWORD"
+}
